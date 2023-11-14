@@ -225,6 +225,8 @@ path {
     .card>img {
         width: 17.8125rem;
         height: auto;
+        object-fit:cover;
+        object-position: bottom left;
         border-top-left-radius: .625rem;
         border-bottom-left-radius: .625rem;
     }
