@@ -113,7 +113,6 @@ h2 {
 
 .card>img {
     height: 12.5rem;
-    filter: brightness(105%);
 }
 
 .card__content {
